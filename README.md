@@ -1,4 +1,4 @@
-# Java-exercises
+# Java-exercises1
 <br>
 Zadanie 1. Main_1<br>
 Program, który rozwiąże równanie liniowe z jedną niewiadomą x: ax + b = 0.
