@@ -1,5 +1,5 @@
 # Java-exercises
-Zadanie 1. degrees<br>
+Zadanie 1. Main<br>
 program, który wczyta ze standardowego wejścia liczbę całkowitą n > 2,
 a potem wyznaczy i wypisze na standardowym wyjściu kąt pomiędzy dwoma bokami n-kąta foremnego (mierzony w stopniach).
 <br>
